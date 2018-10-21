@@ -1,0 +1,69 @@
+{
+  "banners": [
+    {
+      "id": "1",
+      "path": "headers/ElectraBanner.png",
+      "category": "jailbreaks"
+    },
+    {
+      "id": "2",
+      "path": "headers/RollectraBanner.png",
+      "category": "jailbreaks"
+    },
+    {
+      "id": "3",
+      "path": "headers/DoubleH3lixBanner.png",
+      "category": "jailbreaks"
+    },
+    {
+      "id": "4",
+      "path": "headers/PhoenixPWNBanner.png",
+      "category": "jailbreaks"
+    },
+    {
+      "id": "5",
+      "path": "headers/crunchyrollBanner.png",
+      "category": "tweaked"
+    },
+    {
+      "id": "6",
+      "path": "headers/SnapchatPhantomBanner.png",
+      "category": "tweaked"
+    },
+    {
+      "id": "7",
+      "path": "headers/clashofclans.png",
+      "category": "games"
+    },
+    {
+      "id": "8",
+      "path": "headers/minecraft.png",
+      "category": "games"
+    },
+    {
+      "id": "9",
+      "path": "headers/FilzaBanner.png",
+      "category": "utilities"
+    },
+    {
+      "id": "10",
+      "path": "headers/LazarusBanner.png",
+      "category": "utilities"
+    },
+    {
+      "id": "11",
+      "path": "headers/PopcornTimeBanner.png",
+      "category": "entertainment"
+    },
+    {
+      "id": "12",
+      "path": "headers/KodiBanner.png",
+      "category": "entertainment"
+    },
+    {
+      "id": "13",
+      "path": "headers/DeltaBanner.png",
+      "category": "emulators"
+    }
+  ]
+}
